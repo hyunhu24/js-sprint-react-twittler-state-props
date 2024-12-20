@@ -40,7 +40,7 @@ const dummyTweets = [
   },
   {
     id: 4,
-    username: 'songfront',
+    username: 'parkhacker',
     picture: `https://randomuser.me/api/portraits/men/${getRandomNumber(
       1,
       98
